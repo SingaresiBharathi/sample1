@@ -1,0 +1,38 @@
+.box{
+ border-color:cadetblue;
+ background-color:maroon;
+ padding: 50px;
+ color: aqua;
+ margin: 50px;
+ border-style: double;
+ text-align: center;
+ text-shadow: 100px;
+ border-radius: 30px;
+}
+.image{
+    border-image: fill;
+    border-radius: 90px;
+
+}
+h1{
+    font-size: xx-large;
+    font-family: Arial, Helvetica, sans-serif;
+    color:chartreuse;
+    text-transform: uppercase;
+    font-style: unset;
+}
+.letters{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-weight: 500;
+    font-size: 50px;
+    color: tomato;
+}
+.para{
+    font-size: 20px;
+    font-stretch: wider;
+}
+.logo{
+    image-rendering: crisp-edges;
+    border-radius: 50px;
+}
